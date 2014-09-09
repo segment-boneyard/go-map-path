@@ -8,7 +8,7 @@
 ## Example
 
 ```go
-path.Path(map, "some.value.here")
+value := path.Path(m, "some.value.here")
 ```
 
 # License
